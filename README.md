@@ -1,4 +1,4 @@
-# MineCraftPanelBridge
+# MinecraftPanelBridge
 
 If you have been looking for a bridge between your discord server and your Minecraft server's administration panel, I may have just the solution. This bot allows self-hosting Minecraft server owners to send console commands to their server without having to leave the discord environment. 
 
