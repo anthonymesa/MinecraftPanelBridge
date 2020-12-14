@@ -18,6 +18,10 @@ Features:
 - Send any commands to your Minecraft server
 - Display console log of your server
 
+Plans for the future:
+
+- Support for Pterydactyl panel
+
 This project was built using NodeJS, PHP, Nginx, and Postgresql.
 
 WARNING: This project is currently a proof of concept that will be entering beta soon. It should be expected that right now bugs exist, many functionalities may not, and security has not yet been addressed.
