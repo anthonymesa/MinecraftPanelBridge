@@ -44,14 +44,6 @@ bot.add_command(test2)
 async def on_ready():
     print('Bot online: {0.user}'.format(client))
 
-@client.event
-async def on_message(message):
-    if message.author == client.user:
-        return
-
-    if message.content.startswith('$hello'):
-        await message.channel.send('Hello!')
-
 # Run discord bot
 #================================
 
